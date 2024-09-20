@@ -14,6 +14,16 @@
 
 - ⚡ Fun fact **I love coding**
 
+## All DSA Badges @Coding ninjas
+
+<img src="https://files.codingninjas.in/code-crusader-4-26994.svg" width="85px"></img>
+<img src="https://files.codingninjas.in/consistent-coder-2-26973.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/diligent-developer-3-26989.svg" width="75px"></img>
+<img src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/samurai-30760.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/ace-coder-1-26995.svg" width="65px"></img>
+<img src="https://files.codingninjas.in/legendary-1-27005.svg" width="85px"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aqib-hamid-0b080b329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqib hamid" height="30" width="40" /></a>
