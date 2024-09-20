@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+      # Runs at 5:00 AM UTC every day
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Download the snake animation script
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Generate the snake.svg
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: aqib-9
+          outputs: dist/snake.svg
+
+      # Upload the result to the output
+      - name: Upload Snake Animation
+        run: |
+          mkdir -p dist
+          cp dist/snake.svg $GITHUB_WORKSPACE
+
+      # Generate a gif from the snake.svg
+      - name: Convert SVG to GIF
+        uses: ffmpeg-action/ffmpeg-action@v0.0.3
+        with:
+          args: -i dist/snake.svg dist/snake.gif
