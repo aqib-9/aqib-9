@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqib-9&show_icons=true&locale=en" alt="aqib-9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-9&" alt="aqib-9" /></p>
+
+![GitHub Snake Animation](https://github.com/aqib-9/aqib-9/blob/output/snake.svg)
+
