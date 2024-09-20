@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://marketplace.canva.com/EAEiTQ1LoRo/1/0/800w/canva-brown-motivation-and-inspirational-linkedin-banner-MhTGDUyRHdg.jpg" alt="aqib-9_header" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aqib Hamid</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
+
 
 - 🌱 I’m currently learning **Python, Django, Flask, TensorFlow, Scikit-Learn, Pytorch etc**
 
