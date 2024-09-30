@@ -24,6 +24,10 @@
 <img src="https://files.codingninjas.in/ace-coder-1-26995.svg" width="65px"></img>
 <img src="https://files.codingninjas.in/legendary-1-27005.svg" width="85px"></img>
 
+## Badges @LeetCode
+
+<img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="65px"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aqib-hamid-0b080b329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqib hamid" height="30" width="40" /></a>
