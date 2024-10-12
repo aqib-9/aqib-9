@@ -26,7 +26,9 @@
 
 ## Badges @LeetCode
 
-<img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="65px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="65px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="65px"></img>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
