@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aqib Hamid</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Python, Django, Flask, TensorFlow, Scikit-Learn, Pytorch etc**
+- 🌱 I’m currently learning **Python, React.js, Next.js, SQL, Node.js, TensorFlow, Scikit-Learn, Pytorch etc**
 
 - 👯 I’m looking to collaborate on **real world projects**
 
